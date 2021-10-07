@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Oyafemi Babajide",
+	"description": "FreeCodeCamp API course",
 	"scripts": {
 		"start": "node server.js"
 	},
