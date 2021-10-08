@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Oyafemi Babajide",
 	"description": "FreeCodeCamp API course",
+	"keywords": [ "freecodecamp", "Node", "Express", "MongoDB" ],
 	"scripts": {
 		"start": "node server.js"
 	},
