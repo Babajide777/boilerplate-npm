@@ -8,6 +8,7 @@
 	"description": "FreeCodeCamp API course",
 	"keywords": [ "freecodecamp", "Node", "Express", "MongoDB" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"scripts": {
 		"start": "node server.js"
 	},
